@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/a9.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/doublematrix.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/doublevector.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/rng.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/sclda.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/scmtree.jar"/>
+	<classpathentry kind="lib" path="/Users/Yanda/Documents/COMP.215 - Introduction of Program Design/HW9/a1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

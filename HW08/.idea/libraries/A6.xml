@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="A6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/A6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/A8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/doublevector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FastA4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
